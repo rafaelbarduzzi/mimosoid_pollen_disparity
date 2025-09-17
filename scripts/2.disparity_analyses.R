@@ -248,15 +248,15 @@ phylomorphospace <-
              size = 3) +
   scale_color_manual(
     values = 
-      paletteer_d("ggthemes::calc")[c(5,2,1,4,5,12,8,7,8,9,10,1,6)]) +
+      paletteer_d("ggthemes::calc")[c(5,2,1,1,5,12,8,7,8,9,10,1,6)]) +
   scale_shape_manual(
     values = c(
       "Adenopodia" = 17,
       "Gwilymia" = 0,
       "Inga" = 4,
-      "Lachesiodendron" = 2,
+      "Lachesiodendron" = 4,
       "Marlimorimia" = 1,
-      "Microlobius" = 14,
+      "Microlobius" = 2,
       "Mimosa" = 20,
       "Naiadendron" = 5,
       "Parapiptadenia" = 6,
